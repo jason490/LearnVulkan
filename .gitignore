@@ -1,3 +1,10 @@
+
+x64
+*.sln
+*.vcxproj
+*.vs
+
+
 # Prerequisites
 *.d
 

@@ -3,6 +3,8 @@ x64
 *.sln
 *.vcxproj
 *.vs
+*.filters
+*.user
 
 
 # Prerequisites
